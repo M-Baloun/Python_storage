@@ -13,3 +13,4 @@ Funkce storage systému:
 -průměrná cena všech produktů
 ---
 -úprava produktů
+---
